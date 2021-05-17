@@ -103,7 +103,7 @@ public class Test3
 	    }
 	    else
 	    {
-	    	Reporter.log("test failed");
+	      Reporter.log("test failed");
 	    	
 	    }
 	}
